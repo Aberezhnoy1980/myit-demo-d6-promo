@@ -1,0 +1,334 @@
+{
+  "browser": "Chrome",
+  "checks": [
+    {
+      "name": "start-explains-390",
+      "ok": true
+    },
+    {
+      "name": "wrong-focus-390",
+      "ok": true
+    },
+    {
+      "name": "tab-390",
+      "ok": true
+    },
+    {
+      "name": "shift-tab-390",
+      "ok": true
+    },
+    {
+      "name": "double-answer-390",
+      "ok": true
+    },
+    {
+      "name": "reward-visible-390",
+      "ok": true
+    },
+    {
+      "name": "double-next-390",
+      "ok": true
+    },
+    {
+      "name": "eight-to-scenario-390",
+      "ok": true
+    },
+    {
+      "name": "min-disabled-390",
+      "ok": true
+    },
+    {
+      "name": "double-module-390",
+      "ok": true
+    },
+    {
+      "name": "one-disabled-390",
+      "ok": true
+    },
+    {
+      "name": "two-enabled-390",
+      "ok": true
+    },
+    {
+      "name": "max-three-390",
+      "ok": true
+    },
+    {
+      "name": "first-result-390",
+      "ok": true
+    },
+    {
+      "name": "svg-first-390",
+      "ok": true
+    },
+    {
+      "name": "reopen-390",
+      "ok": true
+    },
+    {
+      "name": "second-result-390",
+      "ok": true
+    },
+    {
+      "name": "svg-different-390",
+      "ok": true
+    },
+    {
+      "name": "copy-390",
+      "ok": true
+    },
+    {
+      "name": "copy-fallback-390",
+      "ok": true
+    },
+    {
+      "name": "download-fallback-390",
+      "ok": true
+    },
+    {
+      "name": "reset-cancel-390",
+      "ok": true
+    },
+    {
+      "name": "reset-390",
+      "ok": true
+    },
+    {
+      "name": "start-explains-1440",
+      "ok": true
+    },
+    {
+      "name": "wrong-focus-1440",
+      "ok": true
+    },
+    {
+      "name": "tab-1440",
+      "ok": true
+    },
+    {
+      "name": "shift-tab-1440",
+      "ok": true
+    },
+    {
+      "name": "double-answer-1440",
+      "ok": true
+    },
+    {
+      "name": "reward-visible-1440",
+      "ok": true
+    },
+    {
+      "name": "double-next-1440",
+      "ok": true
+    },
+    {
+      "name": "eight-to-scenario-1440",
+      "ok": true
+    },
+    {
+      "name": "min-disabled-1440",
+      "ok": true
+    },
+    {
+      "name": "double-module-1440",
+      "ok": true
+    },
+    {
+      "name": "one-disabled-1440",
+      "ok": true
+    },
+    {
+      "name": "two-enabled-1440",
+      "ok": true
+    },
+    {
+      "name": "max-three-1440",
+      "ok": true
+    },
+    {
+      "name": "first-result-1440",
+      "ok": true
+    },
+    {
+      "name": "svg-first-1440",
+      "ok": true
+    },
+    {
+      "name": "reopen-1440",
+      "ok": true
+    },
+    {
+      "name": "second-result-1440",
+      "ok": true
+    },
+    {
+      "name": "svg-different-1440",
+      "ok": true
+    },
+    {
+      "name": "copy-1440",
+      "ok": true
+    },
+    {
+      "name": "copy-fallback-1440",
+      "ok": true
+    },
+    {
+      "name": "download-fallback-1440",
+      "ok": true
+    },
+    {
+      "name": "reset-cancel-1440",
+      "ok": true
+    },
+    {
+      "name": "reset-1440",
+      "ok": true
+    },
+    {
+      "name": "migration-1-2",
+      "ok": true
+    },
+    {
+      "name": "migration-destination-1-2",
+      "ok": true
+    },
+    {
+      "name": "migration-1-8",
+      "ok": true
+    },
+    {
+      "name": "migration-destination-1-8",
+      "ok": true
+    },
+    {
+      "name": "migration-2-2",
+      "ok": true
+    },
+    {
+      "name": "migration-destination-2-2",
+      "ok": true
+    },
+    {
+      "name": "migration-2-8",
+      "ok": true
+    },
+    {
+      "name": "migration-destination-2-8",
+      "ok": true
+    },
+    {
+      "name": "overflow-start-360",
+      "ok": true
+    },
+    {
+      "name": "overflow-game-360",
+      "ok": true
+    },
+    {
+      "name": "overflow-select-360",
+      "ok": true
+    },
+    {
+      "name": "overflow-start-390",
+      "ok": true
+    },
+    {
+      "name": "overflow-game-390",
+      "ok": true
+    },
+    {
+      "name": "overflow-select-390",
+      "ok": true
+    },
+    {
+      "name": "overflow-start-768",
+      "ok": true
+    },
+    {
+      "name": "overflow-game-768",
+      "ok": true
+    },
+    {
+      "name": "overflow-select-768",
+      "ok": true
+    },
+    {
+      "name": "overflow-start-1024",
+      "ok": true
+    },
+    {
+      "name": "overflow-game-1024",
+      "ok": true
+    },
+    {
+      "name": "overflow-select-1024",
+      "ok": true
+    },
+    {
+      "name": "overflow-start-1280",
+      "ok": true
+    },
+    {
+      "name": "overflow-game-1280",
+      "ok": true
+    },
+    {
+      "name": "overflow-select-1280",
+      "ok": true
+    },
+    {
+      "name": "overflow-start-1440",
+      "ok": true
+    },
+    {
+      "name": "overflow-game-1440",
+      "ok": true
+    },
+    {
+      "name": "overflow-select-1440",
+      "ok": true
+    },
+    {
+      "name": "reduced-motion",
+      "ok": true
+    },
+    {
+      "name": "no-js",
+      "ok": true
+    },
+    {
+      "name": "storage-denied-full",
+      "ok": true
+    },
+    {
+      "name": "corrupt",
+      "ok": true
+    },
+    {
+      "name": "scenario-key-focus",
+      "ok": true
+    },
+    {
+      "name": "module-key-focus",
+      "ok": true
+    },
+    {
+      "name": "draft-restored",
+      "ok": true
+    },
+    {
+      "name": "offline-open-card-work-390.svg",
+      "ok": true
+    },
+    {
+      "name": "offline-open-card-rest-390.svg",
+      "ok": true
+    },
+    {
+      "name": "nested-prefix",
+      "ok": true
+    }
+  ],
+  "errors": []
+}

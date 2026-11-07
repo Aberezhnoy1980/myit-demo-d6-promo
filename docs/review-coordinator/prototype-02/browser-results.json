@@ -1,0 +1,288 @@
+{
+  "browser": "157.0.8103.38",
+  "checks": [
+    {
+      "name": "wrong-focus-390",
+      "pass": true
+    },
+    {
+      "name": "wrong-tab-390",
+      "pass": true
+    },
+    {
+      "name": "wrong-shift-tab-390",
+      "pass": true
+    },
+    {
+      "name": "double-answer-awards-one-390",
+      "pass": true
+    },
+    {
+      "name": "reward-scene-visible-390",
+      "pass": true
+    },
+    {
+      "name": "double-next-does-not-answer-390",
+      "pass": true
+    },
+    {
+      "name": "reward-2-visible-390",
+      "pass": true
+    },
+    {
+      "name": "reward-3-visible-390",
+      "pass": true
+    },
+    {
+      "name": "reward-4-visible-390",
+      "pass": true
+    },
+    {
+      "name": "continue-entry-390",
+      "pass": true
+    },
+    {
+      "name": "restore-next-unsolved-390",
+      "pass": true
+    },
+    {
+      "name": "complete-390",
+      "pass": true
+    },
+    {
+      "name": "final-scene-visible-390",
+      "pass": true
+    },
+    {
+      "name": "actual-clipboard-390",
+      "pass": true
+    },
+    {
+      "name": "clipboard-fallback-390",
+      "pass": true
+    },
+    {
+      "name": "dialog-shift-tab-trap-390",
+      "pass": true
+    },
+    {
+      "name": "reset-cancel-390",
+      "pass": true
+    },
+    {
+      "name": "reset-390",
+      "pass": true
+    },
+    {
+      "name": "wrong-focus-1440",
+      "pass": true
+    },
+    {
+      "name": "wrong-tab-1440",
+      "pass": true
+    },
+    {
+      "name": "wrong-shift-tab-1440",
+      "pass": true
+    },
+    {
+      "name": "double-answer-awards-one-1440",
+      "pass": true
+    },
+    {
+      "name": "reward-scene-visible-1440",
+      "pass": true
+    },
+    {
+      "name": "double-next-does-not-answer-1440",
+      "pass": true
+    },
+    {
+      "name": "reward-2-visible-1440",
+      "pass": true
+    },
+    {
+      "name": "reward-3-visible-1440",
+      "pass": true
+    },
+    {
+      "name": "reward-4-visible-1440",
+      "pass": true
+    },
+    {
+      "name": "continue-entry-1440",
+      "pass": true
+    },
+    {
+      "name": "restore-next-unsolved-1440",
+      "pass": true
+    },
+    {
+      "name": "complete-1440",
+      "pass": true
+    },
+    {
+      "name": "final-scene-visible-1440",
+      "pass": true
+    },
+    {
+      "name": "actual-clipboard-1440",
+      "pass": true
+    },
+    {
+      "name": "clipboard-fallback-1440",
+      "pass": true
+    },
+    {
+      "name": "dialog-shift-tab-trap-1440",
+      "pass": true
+    },
+    {
+      "name": "reset-cancel-1440",
+      "pass": true
+    },
+    {
+      "name": "reset-1440",
+      "pass": true
+    },
+    {
+      "name": "entry-overflow-360",
+      "pass": true
+    },
+    {
+      "name": "play-overflow-360",
+      "pass": true
+    },
+    {
+      "name": "entry-overflow-390",
+      "pass": true
+    },
+    {
+      "name": "play-overflow-390",
+      "pass": true
+    },
+    {
+      "name": "entry-overflow-768",
+      "pass": true
+    },
+    {
+      "name": "play-overflow-768",
+      "pass": true
+    },
+    {
+      "name": "entry-overflow-1024",
+      "pass": true
+    },
+    {
+      "name": "play-overflow-1024",
+      "pass": true
+    },
+    {
+      "name": "entry-overflow-1280",
+      "pass": true
+    },
+    {
+      "name": "play-overflow-1280",
+      "pass": true
+    },
+    {
+      "name": "entry-overflow-1440",
+      "pass": true
+    },
+    {
+      "name": "play-overflow-1440",
+      "pass": true
+    },
+    {
+      "name": "migration-old-partial",
+      "pass": true
+    },
+    {
+      "name": "migration-route-old-partial",
+      "pass": true
+    },
+    {
+      "name": "migration-old-complete",
+      "pass": true
+    },
+    {
+      "name": "migration-route-old-complete",
+      "pass": true
+    },
+    {
+      "name": "invalid-storage-bad-old",
+      "pass": true
+    },
+    {
+      "name": "invalid-storage-unknown-version",
+      "pass": true
+    },
+    {
+      "name": "invalid-storage-bad-json",
+      "pass": true
+    },
+    {
+      "name": "two-tabs-update",
+      "pass": true
+    },
+    {
+      "name": "two-tabs-reset",
+      "pass": true
+    },
+    {
+      "name": "no-js-readable",
+      "pass": true
+    },
+    {
+      "name": "reduced-motion",
+      "pass": true
+    },
+    {
+      "name": "no-storage-complete",
+      "pass": true
+    },
+    {
+      "name": "prefix-live-path",
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "screenshots": [
+    "start-390.png",
+    "middle-390.png",
+    "complete-390.png",
+    "start-1440.png",
+    "middle-1440.png",
+    "complete-1440.png"
+  ],
+  "layouts": [
+    {
+      "width": 390,
+      "state": "reward-4",
+      "boxes": {
+        ".stage": {
+          "top": 85,
+          "bottom": 272.1875
+        },
+        ".reward": {
+          "top": 327.1875,
+          "bottom": 589.8125
+        }
+      }
+    },
+    {
+      "width": 1440,
+      "state": "reward-4",
+      "boxes": {
+        ".stage": {
+          "top": 124,
+          "bottom": 704
+        },
+        ".reward": {
+          "top": 301.9375,
+          "bottom": 610.046875
+        }
+      }
+    }
+  ]
+}

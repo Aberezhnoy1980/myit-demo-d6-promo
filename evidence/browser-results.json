@@ -1,0 +1,162 @@
+{
+  "browser": "Chrome",
+  "checks": [
+    {
+      "name": "wrong-focus-390",
+      "ok": true
+    },
+    {
+      "name": "wrong-tab-390",
+      "ok": true
+    },
+    {
+      "name": "wrong-shift-tab-390",
+      "ok": true
+    },
+    {
+      "name": "double-390",
+      "ok": true
+    },
+    {
+      "name": "reward-visible-390",
+      "ok": true
+    },
+    {
+      "name": "middle-390",
+      "ok": true
+    },
+    {
+      "name": "restore-390",
+      "ok": true
+    },
+    {
+      "name": "complete-390",
+      "ok": true
+    },
+    {
+      "name": "copy-390",
+      "ok": true
+    },
+    {
+      "name": "copy-fallback-390",
+      "ok": true
+    },
+    {
+      "name": "cancel-390",
+      "ok": true
+    },
+    {
+      "name": "reset-390",
+      "ok": true
+    },
+    {
+      "name": "wrong-focus-1440",
+      "ok": true
+    },
+    {
+      "name": "wrong-tab-1440",
+      "ok": true
+    },
+    {
+      "name": "wrong-shift-tab-1440",
+      "ok": true
+    },
+    {
+      "name": "double-1440",
+      "ok": true
+    },
+    {
+      "name": "reward-visible-1440",
+      "ok": true
+    },
+    {
+      "name": "middle-1440",
+      "ok": true
+    },
+    {
+      "name": "restore-1440",
+      "ok": true
+    },
+    {
+      "name": "complete-1440",
+      "ok": true
+    },
+    {
+      "name": "copy-1440",
+      "ok": true
+    },
+    {
+      "name": "copy-fallback-1440",
+      "ok": true
+    },
+    {
+      "name": "cancel-1440",
+      "ok": true
+    },
+    {
+      "name": "reset-1440",
+      "ok": true
+    },
+    {
+      "name": "start-overflow-360",
+      "ok": true
+    },
+    {
+      "name": "play-overflow-360",
+      "ok": true
+    },
+    {
+      "name": "start-overflow-390",
+      "ok": true
+    },
+    {
+      "name": "play-overflow-390",
+      "ok": true
+    },
+    {
+      "name": "start-overflow-768",
+      "ok": true
+    },
+    {
+      "name": "play-overflow-768",
+      "ok": true
+    },
+    {
+      "name": "start-overflow-1024",
+      "ok": true
+    },
+    {
+      "name": "play-overflow-1024",
+      "ok": true
+    },
+    {
+      "name": "start-overflow-1280",
+      "ok": true
+    },
+    {
+      "name": "play-overflow-1280",
+      "ok": true
+    },
+    {
+      "name": "start-overflow-1440",
+      "ok": true
+    },
+    {
+      "name": "play-overflow-1440",
+      "ok": true
+    },
+    {
+      "name": "migrate-v1",
+      "ok": true
+    },
+    {
+      "name": "migrate-continue",
+      "ok": true
+    },
+    {
+      "name": "two-tabs",
+      "ok": true
+    }
+  ],
+  "errors": []
+}

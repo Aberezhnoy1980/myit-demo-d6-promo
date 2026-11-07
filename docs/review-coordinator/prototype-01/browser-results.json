@@ -1,0 +1,261 @@
+{
+  "browser": "157.0.8103.38",
+  "checks": [
+    {
+      "name": "start-390",
+      "pass": true
+    },
+    {
+      "name": "wrong-no-reward-390",
+      "pass": true
+    },
+    {
+      "name": "wrong-answer-retains-useful-focus-390",
+      "pass": false,
+      "detail": {
+        "tag": "BODY",
+        "id": ""
+      }
+    },
+    {
+      "name": "half-390",
+      "pass": true
+    },
+    {
+      "name": "composition-visible-during-play-390",
+      "pass": false
+    },
+    {
+      "name": "reload-continue-390",
+      "pass": true
+    },
+    {
+      "name": "restore-step-390",
+      "pass": true
+    },
+    {
+      "name": "complete-390",
+      "pass": true
+    },
+    {
+      "name": "final-composition-visible-390",
+      "pass": false
+    },
+    {
+      "name": "copy-success-390",
+      "pass": true
+    },
+    {
+      "name": "copy-fallback-390",
+      "pass": true
+    },
+    {
+      "name": "reset-dialog-390",
+      "pass": true
+    },
+    {
+      "name": "reset-tab-trap-390",
+      "pass": true
+    },
+    {
+      "name": "reset-cancel-preserves-390",
+      "pass": true
+    },
+    {
+      "name": "reset-clears-390",
+      "pass": true
+    },
+    {
+      "name": "start-1440",
+      "pass": true
+    },
+    {
+      "name": "wrong-no-reward-1440",
+      "pass": true
+    },
+    {
+      "name": "wrong-answer-retains-useful-focus-1440",
+      "pass": false,
+      "detail": {
+        "tag": "BODY",
+        "id": ""
+      }
+    },
+    {
+      "name": "half-1440",
+      "pass": true
+    },
+    {
+      "name": "composition-visible-during-play-1440",
+      "pass": false
+    },
+    {
+      "name": "reload-continue-1440",
+      "pass": true
+    },
+    {
+      "name": "restore-step-1440",
+      "pass": true
+    },
+    {
+      "name": "complete-1440",
+      "pass": true
+    },
+    {
+      "name": "final-composition-visible-1440",
+      "pass": false
+    },
+    {
+      "name": "copy-success-1440",
+      "pass": true
+    },
+    {
+      "name": "copy-fallback-1440",
+      "pass": true
+    },
+    {
+      "name": "reset-dialog-1440",
+      "pass": true
+    },
+    {
+      "name": "reset-tab-trap-1440",
+      "pass": true
+    },
+    {
+      "name": "reset-cancel-preserves-1440",
+      "pass": true
+    },
+    {
+      "name": "reset-clears-1440",
+      "pass": true
+    },
+    {
+      "name": "overflow-360",
+      "pass": true
+    },
+    {
+      "name": "overflow-390",
+      "pass": true
+    },
+    {
+      "name": "overflow-768",
+      "pass": true
+    },
+    {
+      "name": "overflow-1024",
+      "pass": true
+    },
+    {
+      "name": "overflow-1280",
+      "pass": true
+    },
+    {
+      "name": "overflow-1440",
+      "pass": true
+    },
+    {
+      "name": "one-double-click-does-not-answer-next-question",
+      "pass": false,
+      "detail": {
+        "collected": 2
+      }
+    },
+    {
+      "name": "no-js-explanation",
+      "pass": true
+    },
+    {
+      "name": "reduced-motion-css",
+      "pass": true
+    },
+    {
+      "name": "corrupt-storage-warning",
+      "pass": true
+    },
+    {
+      "name": "corrupt-storage-recovered",
+      "pass": true
+    },
+    {
+      "name": "storage-denied-play-completes",
+      "pass": true
+    }
+  ],
+  "widths": [
+    {
+      "width": 360,
+      "start": {
+        "client": 360,
+        "scroll": 360
+      },
+      "playing": {
+        "client": 360,
+        "scroll": 360
+      }
+    },
+    {
+      "width": 390,
+      "start": {
+        "client": 390,
+        "scroll": 390
+      },
+      "playing": {
+        "client": 390,
+        "scroll": 390
+      }
+    },
+    {
+      "width": 768,
+      "start": {
+        "client": 768,
+        "scroll": 768
+      },
+      "playing": {
+        "client": 768,
+        "scroll": 768
+      }
+    },
+    {
+      "width": 1024,
+      "start": {
+        "client": 1024,
+        "scroll": 1024
+      },
+      "playing": {
+        "client": 1024,
+        "scroll": 1024
+      }
+    },
+    {
+      "width": 1280,
+      "start": {
+        "client": 1280,
+        "scroll": 1280
+      },
+      "playing": {
+        "client": 1280,
+        "scroll": 1280
+      }
+    },
+    {
+      "width": 1440,
+      "start": {
+        "client": 1440,
+        "scroll": 1440
+      },
+      "playing": {
+        "client": 1440,
+        "scroll": 1440
+      }
+    }
+  ],
+  "errors": [],
+  "screenshots": [
+    "start-390.png",
+    "middle-390.png",
+    "complete-390.png",
+    "start-1440.png",
+    "middle-1440.png",
+    "complete-1440.png"
+  ]
+}
