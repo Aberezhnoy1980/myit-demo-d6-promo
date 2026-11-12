@@ -1,1 +1,42 @@
-<!doctype html><html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="theme-color" content="#171a19"><title>Свет / Сборка — интерактивная коллекция</title><link rel="stylesheet" href="style.css"></head><body><header class="top"><a class="logo" href="./">СВЕТ<span>/</span>СБОРКА</a><span>ИНТЕРАКТИВНАЯ КОЛЛЕКЦИЯ</span><span class="demo">ДЕМО · 01—08</span></header><main id="app"><noscript><section class="noscript"><h1>Соберите свет из восьми моментов</h1><p>Вымышленная коллекция света: изучите восемь форм, выберите задачу и модули, затем сохраните личную карточку. Для интерактивного прохождения нужен JavaScript. Регистрации, покупки и призов нет.</p></section></noscript><div id="experience"></div></main><footer><span>СВЕТ / СБОРКА</span><span>Вымышленная коллекция · Без покупки и призов</span></footer><script type="module" src="app.js"></script></body></html>
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#121a18">
+<title>СВЕТ / СБОРКА — акция «Долгие вечера» (демо)</title>
+<meta name="description" content="Демо-промоакция вымышленного салона света: осветите пять комнат дома, подберите светильники и получите скидку на комплект.">
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="skip" href="#app">К содержанию</a>
+<header class="top">
+<a class="logo" href="#/" aria-label="СВЕТ / СБОРКА — на главную">СВЕТ <span>/</span> СБОРКА</a>
+<nav class="top-nav" aria-label="Разделы"><a href="#/dom">Ваш дом</a><a href="#kollekciya" class="hide-s">Коллекция</a><a id="cart-link" class="cart-link" href="#/komplekt" hidden>Комплект</a><span class="demo-badge">Демо</span></nav>
+</header>
+<main id="app">
+<section class="nojs">
+<p class="eyebrow">Салон света · акция «Долгие вечера» · демо</p>
+<h1>Темнеет в 16:30. Зажгите дом.</h1>
+<p>Вымышленный салон света проводит сезонную акцию: осветите пять комнат дома светильниками из коллекции и получите скидку на комплект — 2 комнаты −5%, 3 комнаты −10%, все пять −15% и монтаж в подарок.</p>
+<h2>Коллекция (демо-цены)</h2>
+<ul>
+<li>«Рассвет» — люстра-купол, 24 900 ₽</li>
+<li>«Дуга» — подвес над столом, 16 400 ₽</li>
+<li>«Линия» — подсветка под шкафы и полки, 6 300 ₽</li>
+<li>«Фокус» — настольная лампа на шарнире, 8 900 ₽</li>
+<li>«Пауза» — торшер с тканевым абажуром, 19 700 ₽</li>
+<li>«Ореол» — бра-акцент, 7 800 ₽</li>
+<li>«Складка» — прикроватное бра, 9 600 ₽</li>
+<li>«Точка» — круглое бра, 5 900 ₽</li>
+</ul>
+<p class="nojs-note">Интерактивный дом сейчас недоступен: для него нужен JavaScript. Включите его и обновите страницу.</p>
+<p>Это демонстрационный проект: салон, цены и акция вымышлены, ничего не продаётся и не отправляется.</p>
+</section>
+</main>
+<div id="live" class="sr" aria-live="polite"></div>
+<footer class="foot"><span>СВЕТ / СБОРКА · демонстрационный промолендинг</span><span>Вымышленный салон · без покупки, оплаты и сбора контактов</span></footer>
+<script type="module" src="app.js"></script>
+</body>
+</html>

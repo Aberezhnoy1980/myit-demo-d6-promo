@@ -1,0 +1,417 @@
+{
+  "browser": "157.0.8103.78",
+  "environment": "Headless Chrome, viewport CSS px, Playwright deviceScaleFactor=1, новый контекст, browser zoom 100% по умолчанию; без OS окна и сохранённого профиля",
+  "hero": [
+    {
+      "width": 1440,
+      "height": 900,
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "dpr": 1
+      },
+      "cta": {
+        "x": 48.953125,
+        "y": 509.75,
+        "right": 295.1875,
+        "bottom": 571.75,
+        "width": 246.234375,
+        "height": 62
+      },
+      "copy": {
+        "x": 0,
+        "y": 76,
+        "right": 619.1875,
+        "bottom": 688.6875,
+        "width": 619.1875,
+        "height": 612.6875
+      },
+      "scene": {
+        "x": 619.1875,
+        "y": 98,
+        "right": 1396.8125,
+        "bottom": 633.6875,
+        "width": 777.625,
+        "height": 535.6875
+      },
+      "caption": {
+        "x": 619.1875,
+        "y": 633.6875,
+        "right": 1396.8125,
+        "bottom": 668.6875,
+        "width": 777.625,
+        "height": 35
+      },
+      "ctaVisible": true,
+      "overlap": false,
+      "overflow": false
+    },
+    {
+      "width": 1280,
+      "height": 800,
+      "viewport": {
+        "width": 1280,
+        "height": 800,
+        "dpr": 1
+      },
+      "cta": {
+        "x": 43.515625,
+        "y": 474.078125,
+        "right": 289.75,
+        "bottom": 536.078125,
+        "width": 246.234375,
+        "height": 62
+      },
+      "copy": {
+        "x": 0,
+        "y": 76,
+        "right": 550.390625,
+        "bottom": 629.171875,
+        "width": 550.390625,
+        "height": 553.171875
+      },
+      "scene": {
+        "x": 550.390625,
+        "y": 98,
+        "right": 1241.609375,
+        "bottom": 574.171875,
+        "width": 691.21875,
+        "height": 476.171875
+      },
+      "caption": {
+        "x": 550.390625,
+        "y": 574.171875,
+        "right": 1241.609375,
+        "bottom": 609.171875,
+        "width": 691.21875,
+        "height": 35
+      },
+      "ctaVisible": true,
+      "overlap": false,
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "viewport": {
+        "width": 1024,
+        "height": 768,
+        "dpr": 1
+      },
+      "cta": {
+        "x": 34.8125,
+        "y": 461.03125,
+        "right": 281.046875,
+        "bottom": 523.03125,
+        "width": 246.234375,
+        "height": 62
+      },
+      "copy": {
+        "x": 0,
+        "y": 76,
+        "right": 440.3125,
+        "bottom": 579.53125,
+        "width": 440.3125,
+        "height": 503.53125
+      },
+      "scene": {
+        "x": 440.3125,
+        "y": 120.796875,
+        "right": 993.28125,
+        "bottom": 501.71875,
+        "width": 552.96875,
+        "height": 380.921875
+      },
+      "caption": {
+        "x": 440.3125,
+        "y": 501.71875,
+        "right": 993.28125,
+        "bottom": 536.71875,
+        "width": 552.96875,
+        "height": 35
+      },
+      "ctaVisible": true,
+      "overlap": false,
+      "overflow": false
+    },
+    {
+      "width": 820,
+      "height": 800,
+      "viewport": {
+        "width": 820,
+        "height": 800,
+        "dpr": 1
+      },
+      "cta": {
+        "x": 27.875,
+        "y": 479.84375,
+        "right": 274.109375,
+        "bottom": 541.84375,
+        "width": 246.234375,
+        "height": 62
+      },
+      "copy": {
+        "x": 0,
+        "y": 76,
+        "right": 352.59375,
+        "bottom": 598.34375,
+        "width": 352.59375,
+        "height": 522.34375
+      },
+      "scene": {
+        "x": 352.59375,
+        "y": 168.140625,
+        "right": 795.40625,
+        "bottom": 473.1875,
+        "width": 442.8125,
+        "height": 305.046875
+      },
+      "caption": {
+        "x": 352.59375,
+        "y": 473.1875,
+        "right": 795.40625,
+        "bottom": 508.1875,
+        "width": 442.8125,
+        "height": 35
+      },
+      "ctaVisible": true,
+      "overlap": false,
+      "overflow": false
+    },
+    {
+      "width": 801,
+      "height": 800,
+      "viewport": {
+        "width": 801,
+        "height": 800,
+        "dpr": 1
+      },
+      "cta": {
+        "x": 27.21875,
+        "y": 479.84375,
+        "right": 273.453125,
+        "bottom": 541.84375,
+        "width": 246.234375,
+        "height": 62
+      },
+      "copy": {
+        "x": 0,
+        "y": 76,
+        "right": 344.421875,
+        "bottom": 598.34375,
+        "width": 344.421875,
+        "height": 522.34375
+      },
+      "scene": {
+        "x": 344.421875,
+        "y": 171.671875,
+        "right": 776.984375,
+        "bottom": 469.65625,
+        "width": 432.5625,
+        "height": 297.984375
+      },
+      "caption": {
+        "x": 344.421875,
+        "y": 469.65625,
+        "right": 776.984375,
+        "bottom": 504.65625,
+        "width": 432.5625,
+        "height": 35
+      },
+      "ctaVisible": true,
+      "overlap": false,
+      "overflow": false
+    },
+    {
+      "width": 800,
+      "height": 800,
+      "viewport": {
+        "width": 800,
+        "height": 800,
+        "dpr": 1
+      },
+      "cta": {
+        "x": 40,
+        "y": 698.1875,
+        "right": 286.234375,
+        "bottom": 760.1875,
+        "width": 246.234375,
+        "height": 62
+      },
+      "copy": {
+        "x": 0,
+        "y": 367.5,
+        "right": 800,
+        "bottom": 824.6875,
+        "width": 800,
+        "height": 457.1875
+      },
+      "scene": {
+        "x": 32,
+        "y": 74,
+        "right": 768,
+        "bottom": 324,
+        "width": 736,
+        "height": 250
+      },
+      "caption": {
+        "x": 32,
+        "y": 324,
+        "right": 768,
+        "bottom": 367.5,
+        "width": 736,
+        "height": 43.5
+      },
+      "ctaVisible": true,
+      "overlap": false,
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "viewport": {
+        "width": 390,
+        "height": 844,
+        "dpr": 1
+      },
+      "cta": {
+        "x": 19.5,
+        "y": 717.984375,
+        "right": 265.734375,
+        "bottom": 779.984375,
+        "width": 246.234375,
+        "height": 62
+      },
+      "copy": {
+        "x": 0,
+        "y": 364.671875,
+        "right": 390,
+        "bottom": 844.484375,
+        "width": 390,
+        "height": 479.8125
+      },
+      "scene": {
+        "x": 15.59375,
+        "y": 74,
+        "right": 374.40625,
+        "bottom": 321.171875,
+        "width": 358.8125,
+        "height": 247.171875
+      },
+      "caption": {
+        "x": 15.59375,
+        "y": 321.171875,
+        "right": 374.40625,
+        "bottom": 364.671875,
+        "width": 358.8125,
+        "height": 43.5
+      },
+      "ctaVisible": true,
+      "overlap": false,
+      "overflow": false
+    },
+    {
+      "width": 360,
+      "height": 800,
+      "viewport": {
+        "width": 360,
+        "height": 800,
+        "dpr": 1
+      },
+      "cta": {
+        "x": 18,
+        "y": 696.953125,
+        "right": 264.234375,
+        "bottom": 758.953125,
+        "width": 246.234375,
+        "height": 62
+      },
+      "copy": {
+        "x": 0,
+        "y": 345.671875,
+        "right": 360,
+        "bottom": 823.453125,
+        "width": 360,
+        "height": 477.78125
+      },
+      "scene": {
+        "x": 14.390625,
+        "y": 74,
+        "right": 345.609375,
+        "bottom": 302.171875,
+        "width": 331.21875,
+        "height": 228.171875
+      },
+      "caption": {
+        "x": 14.390625,
+        "y": 302.171875,
+        "right": 345.609375,
+        "bottom": 345.671875,
+        "width": 331.21875,
+        "height": 43.5
+      },
+      "ctaVisible": true,
+      "overlap": false,
+      "overflow": false
+    }
+  ],
+  "samples": [
+    {
+      "width": 1440,
+      "height": 900,
+      "mode": "off",
+      "selected": "true",
+      "scene": "scene mode-off"
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "mode": "ambient",
+      "selected": "true",
+      "scene": "scene mode-ambient"
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "mode": "task",
+      "selected": "true",
+      "scene": "scene mode-task"
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "mode": "accent",
+      "selected": "true",
+      "scene": "scene mode-accent"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "mode": "off",
+      "selected": "true",
+      "scene": "scene mode-off"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "mode": "ambient",
+      "selected": "true",
+      "scene": "scene mode-ambient"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "mode": "task",
+      "selected": "true",
+      "scene": "scene mode-task"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "mode": "accent",
+      "selected": "true",
+      "scene": "scene mode-accent"
+    }
+  ],
+  "errors": []
+}

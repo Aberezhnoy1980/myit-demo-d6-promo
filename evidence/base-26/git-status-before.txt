@@ -1,0 +1,28 @@
+ M README.md
+ M SHA256SUMS
+ M app.js
+ M card.js
+ M data.js
+ M docs/acceptance.md
+ M docs/assets.md
+ M docs/brief.md
+ M docs/design.md
+ M docs/portfolio.md
+ M docs/report.md
+ M index.html
+ M state.js
+ M storage.js
+ M style.css
+ M tests/state.test.mjs
+?? docs/changes-24.md
+?? docs/owner-analysis-2026-11-12.md
+?? docs/research/
+?? evidence/base-26/
+?? evidence/integration-24/
+?? evidence/offer-journey/
+?? evidence/visual-prototype/
+?? legacy.js
+?? public/
+?? room.js
+?? tests/browser-integration.mjs
+?? tests/browser-offer.mjs

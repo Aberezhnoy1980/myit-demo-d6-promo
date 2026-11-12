@@ -1,0 +1,163 @@
+{
+  "browser": "157.0.8103.78",
+  "checks": [
+    {
+      "name": "hero-cta-visible-1440x900",
+      "pass": true,
+      "detail": {
+        "x": 57.59375,
+        "y": 539.53125,
+        "width": 362.90625,
+        "height": 52
+      }
+    },
+    {
+      "name": "hero-no-overflow-1440",
+      "pass": true
+    },
+    {
+      "name": "hero-cta-visible-1280x800",
+      "pass": true,
+      "detail": {
+        "x": 51.1875,
+        "y": 492.09375,
+        "width": 362.90625,
+        "height": 52
+      }
+    },
+    {
+      "name": "hero-no-overflow-1280",
+      "pass": true
+    },
+    {
+      "name": "hero-cta-visible-1024x768",
+      "pass": true,
+      "detail": {
+        "x": 40.953125,
+        "y": 494.671875,
+        "width": 362.90625,
+        "height": 52
+      }
+    },
+    {
+      "name": "hero-no-overflow-1024",
+      "pass": true
+    },
+    {
+      "name": "hero-cta-visible-390x844",
+      "pass": true,
+      "detail": {
+        "x": 16,
+        "y": 455.5625,
+        "width": 358,
+        "height": 68
+      }
+    },
+    {
+      "name": "hero-no-overflow-390",
+      "pass": true
+    },
+    {
+      "name": "hero-cta-visible-360x800",
+      "pass": true,
+      "detail": {
+        "x": 16,
+        "y": 474.453125,
+        "width": 328,
+        "height": 68
+      }
+    },
+    {
+      "name": "hero-no-overflow-360",
+      "pass": true
+    },
+    {
+      "name": "kitchen-hotspot-1440",
+      "pass": true
+    },
+    {
+      "name": "kitchen-found-1440",
+      "pass": true
+    },
+    {
+      "name": "double-click-adds-once-1440",
+      "pass": true,
+      "detail": [
+        "line"
+      ]
+    },
+    {
+      "name": "light-on-1440",
+      "pass": true
+    },
+    {
+      "name": "kitchen-no-overflow-1440",
+      "pass": true
+    },
+    {
+      "name": "final-a-1440",
+      "pass": true
+    },
+    {
+      "name": "final-no-overflow-a-1440",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "final-b-1440",
+      "pass": true
+    },
+    {
+      "name": "final-no-overflow-b-1440",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "kitchen-hotspot-390",
+      "pass": true
+    },
+    {
+      "name": "kitchen-found-390",
+      "pass": true
+    },
+    {
+      "name": "double-click-adds-once-390",
+      "pass": true,
+      "detail": [
+        "line"
+      ]
+    },
+    {
+      "name": "light-on-390",
+      "pass": true
+    },
+    {
+      "name": "kitchen-no-overflow-390",
+      "pass": true
+    },
+    {
+      "name": "final-a-390",
+      "pass": true
+    },
+    {
+      "name": "final-no-overflow-a-390",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "final-b-390",
+      "pass": true
+    },
+    {
+      "name": "final-no-overflow-b-390",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "anchor-from-room",
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "external": []
+}

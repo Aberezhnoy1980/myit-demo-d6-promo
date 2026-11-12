@@ -1,0 +1,5 @@
+{
+  "initial_raw_bytes": 41382,
+  "own_js_gzip_sum_bytes": 11383,
+  "method": "Сумма локальных файлов; JS сжат каждый отдельно. Не network waterfall."
+}
