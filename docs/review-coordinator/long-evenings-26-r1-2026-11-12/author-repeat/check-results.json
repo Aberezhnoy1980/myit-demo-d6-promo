@@ -1,0 +1,1035 @@
+{
+  "date": "2026-11-12T15:30:54.848Z",
+  "base": "http://127.0.0.1:4397/",
+  "passed": 168,
+  "total": 168,
+  "failed": [],
+  "errors": [],
+  "external": [],
+  "checks": [
+    {
+      "name": "hall-1440-hotspot-in-scene",
+      "pass": true,
+      "detail": {
+        "spot": {
+          "x": 165.4453125,
+          "y": 325.578125,
+          "width": 143.140625,
+          "height": 88
+        },
+        "sc": {
+          "x": 57.59375,
+          "y": 236.890625,
+          "width": 747.609375,
+          "height": 473.921875
+        }
+      }
+    },
+    {
+      "name": "hall-1440-problem-found",
+      "pass": true
+    },
+    {
+      "name": "hall-1440-dblclick-once",
+      "pass": true
+    },
+    {
+      "name": "hall-1440-two-lights-on",
+      "pass": true,
+      "detail": {
+        "a": 1,
+        "b": 1,
+        "base": 0,
+        "absent": 0
+      }
+    },
+    {
+      "name": "hall-1440-status",
+      "pass": true
+    },
+    {
+      "name": "hall-1440-no-overflow",
+      "pass": true
+    },
+    {
+      "name": "hall-1440-unique-ids",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "hall-1440-compare-now",
+      "pass": true,
+      "detail": {
+        "on": [
+          "light base on"
+        ],
+        "pressed": "true",
+        "focus": "now"
+      }
+    },
+    {
+      "name": "kitchen-1440-hotspot-in-scene",
+      "pass": true,
+      "detail": {
+        "spot": {
+          "x": 165.4453125,
+          "y": 387.1875,
+          "width": 143.140625,
+          "height": 88
+        },
+        "sc": {
+          "x": 57.59375,
+          "y": 236.890625,
+          "width": 747.609375,
+          "height": 473.921875
+        }
+      }
+    },
+    {
+      "name": "kitchen-1440-problem-found",
+      "pass": true
+    },
+    {
+      "name": "kitchen-1440-dblclick-once",
+      "pass": true
+    },
+    {
+      "name": "kitchen-1440-two-lights-on",
+      "pass": true,
+      "detail": {
+        "a": 1,
+        "b": 1,
+        "base": 0,
+        "absent": 0
+      }
+    },
+    {
+      "name": "kitchen-1440-status",
+      "pass": true
+    },
+    {
+      "name": "kitchen-1440-no-overflow",
+      "pass": true
+    },
+    {
+      "name": "kitchen-1440-unique-ids",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "kitchen-1440-compare-now",
+      "pass": true,
+      "detail": {
+        "on": [
+          "light base on"
+        ],
+        "pressed": "true",
+        "focus": "now"
+      }
+    },
+    {
+      "name": "living-1440-hotspot-in-scene",
+      "pass": true,
+      "detail": {
+        "spot": {
+          "x": 270.1015625,
+          "y": 306.625,
+          "width": 143.140625,
+          "height": 88
+        },
+        "sc": {
+          "x": 57.59375,
+          "y": 236.890625,
+          "width": 747.609375,
+          "height": 473.921875
+        }
+      }
+    },
+    {
+      "name": "living-1440-problem-found",
+      "pass": true
+    },
+    {
+      "name": "living-1440-dblclick-once",
+      "pass": true
+    },
+    {
+      "name": "living-1440-two-lights-on",
+      "pass": true,
+      "detail": {
+        "a": 1,
+        "b": 1,
+        "base": 0,
+        "absent": 2
+      }
+    },
+    {
+      "name": "living-1440-status",
+      "pass": true
+    },
+    {
+      "name": "living-1440-third-refused",
+      "pass": true
+    },
+    {
+      "name": "living-1440-no-overflow",
+      "pass": true
+    },
+    {
+      "name": "living-1440-unique-ids",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "living-1440-compare-now",
+      "pass": true,
+      "detail": {
+        "on": [
+          "light base on"
+        ],
+        "pressed": "true",
+        "focus": "now"
+      }
+    },
+    {
+      "name": "work-1440-hotspot-in-scene",
+      "pass": true,
+      "detail": {
+        "spot": {
+          "x": 172.9140625,
+          "y": 448.796875,
+          "width": 143.140625,
+          "height": 88
+        },
+        "sc": {
+          "x": 57.59375,
+          "y": 236.890625,
+          "width": 747.609375,
+          "height": 473.921875
+        }
+      }
+    },
+    {
+      "name": "work-1440-problem-found",
+      "pass": true
+    },
+    {
+      "name": "work-1440-dblclick-once",
+      "pass": true
+    },
+    {
+      "name": "work-1440-two-lights-on",
+      "pass": true,
+      "detail": {
+        "a": 1,
+        "b": 1,
+        "base": 0,
+        "absent": 0
+      }
+    },
+    {
+      "name": "work-1440-status",
+      "pass": true
+    },
+    {
+      "name": "work-1440-no-overflow",
+      "pass": true
+    },
+    {
+      "name": "work-1440-unique-ids",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "work-1440-compare-now",
+      "pass": true,
+      "detail": {
+        "on": [
+          "light base on"
+        ],
+        "pressed": "true",
+        "focus": "now"
+      }
+    },
+    {
+      "name": "bedroom-1440-hotspot-in-scene",
+      "pass": true,
+      "detail": {
+        "spot": {
+          "x": 404.6796875,
+          "y": 425.109375,
+          "width": 143.140625,
+          "height": 88
+        },
+        "sc": {
+          "x": 57.59375,
+          "y": 236.890625,
+          "width": 747.609375,
+          "height": 473.921875
+        }
+      }
+    },
+    {
+      "name": "bedroom-1440-problem-found",
+      "pass": true
+    },
+    {
+      "name": "bedroom-1440-dblclick-once",
+      "pass": true
+    },
+    {
+      "name": "bedroom-1440-two-lights-on",
+      "pass": true,
+      "detail": {
+        "a": 1,
+        "b": 1,
+        "base": 0,
+        "absent": 0
+      }
+    },
+    {
+      "name": "bedroom-1440-status",
+      "pass": true
+    },
+    {
+      "name": "bedroom-1440-no-overflow",
+      "pass": true
+    },
+    {
+      "name": "bedroom-1440-unique-ids",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "bedroom-1440-compare-now",
+      "pass": true,
+      "detail": {
+        "on": [
+          "light base on"
+        ],
+        "pressed": "true",
+        "focus": "now"
+      }
+    },
+    {
+      "name": "hall-390-hotspot-in-scene",
+      "pass": true,
+      "detail": {
+        "spot": {
+          "x": 34.734375,
+          "y": 232.546875,
+          "width": 134.34375,
+          "height": 87
+        },
+        "sc": {
+          "x": 16,
+          "y": 212.515625,
+          "width": 358,
+          "height": 226.9375
+        }
+      }
+    },
+    {
+      "name": "hall-390-problem-found",
+      "pass": true
+    },
+    {
+      "name": "hall-390-dblclick-once",
+      "pass": true
+    },
+    {
+      "name": "hall-390-two-lights-on",
+      "pass": true,
+      "detail": {
+        "a": 1,
+        "b": 1,
+        "base": 0,
+        "absent": 0
+      }
+    },
+    {
+      "name": "hall-390-status",
+      "pass": true
+    },
+    {
+      "name": "hall-390-no-overflow",
+      "pass": true
+    },
+    {
+      "name": "hall-390-unique-ids",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "hall-390-compare-now",
+      "pass": true,
+      "detail": {
+        "on": [
+          "light base on"
+        ],
+        "pressed": "true",
+        "focus": "now"
+      }
+    },
+    {
+      "name": "kitchen-390-hotspot-in-scene",
+      "pass": true,
+      "detail": {
+        "spot": {
+          "x": 34.734375,
+          "y": 262.046875,
+          "width": 134.34375,
+          "height": 87
+        },
+        "sc": {
+          "x": 16,
+          "y": 212.515625,
+          "width": 358,
+          "height": 226.9375
+        }
+      }
+    },
+    {
+      "name": "kitchen-390-problem-found",
+      "pass": true
+    },
+    {
+      "name": "kitchen-390-dblclick-once",
+      "pass": true
+    },
+    {
+      "name": "kitchen-390-two-lights-on",
+      "pass": true,
+      "detail": {
+        "a": 1,
+        "b": 1,
+        "base": 0,
+        "absent": 0
+      }
+    },
+    {
+      "name": "kitchen-390-status",
+      "pass": true
+    },
+    {
+      "name": "kitchen-390-no-overflow",
+      "pass": true
+    },
+    {
+      "name": "kitchen-390-unique-ids",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "kitchen-390-compare-now",
+      "pass": true,
+      "detail": {
+        "on": [
+          "light base on"
+        ],
+        "pressed": "true",
+        "focus": "now"
+      }
+    },
+    {
+      "name": "living-390-hotspot-in-scene",
+      "pass": true,
+      "detail": {
+        "spot": {
+          "x": 84.859375,
+          "y": 223.46875,
+          "width": 134.34375,
+          "height": 87
+        },
+        "sc": {
+          "x": 16,
+          "y": 212.515625,
+          "width": 358,
+          "height": 226.9375
+        }
+      }
+    },
+    {
+      "name": "living-390-problem-found",
+      "pass": true
+    },
+    {
+      "name": "living-390-dblclick-once",
+      "pass": true
+    },
+    {
+      "name": "living-390-two-lights-on",
+      "pass": true,
+      "detail": {
+        "a": 1,
+        "b": 1,
+        "base": 0,
+        "absent": 2
+      }
+    },
+    {
+      "name": "living-390-status",
+      "pass": true
+    },
+    {
+      "name": "living-390-third-refused",
+      "pass": true
+    },
+    {
+      "name": "living-390-no-overflow",
+      "pass": true
+    },
+    {
+      "name": "living-390-unique-ids",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "living-390-compare-now",
+      "pass": true,
+      "detail": {
+        "on": [
+          "light base on"
+        ],
+        "pressed": "true",
+        "focus": "now"
+      }
+    },
+    {
+      "name": "work-390-hotspot-in-scene",
+      "pass": true,
+      "detail": {
+        "spot": {
+          "x": 38.328125,
+          "y": 291.546875,
+          "width": 134.34375,
+          "height": 87
+        },
+        "sc": {
+          "x": 16,
+          "y": 212.515625,
+          "width": 358,
+          "height": 226.9375
+        }
+      }
+    },
+    {
+      "name": "work-390-problem-found",
+      "pass": true
+    },
+    {
+      "name": "work-390-dblclick-once",
+      "pass": true
+    },
+    {
+      "name": "work-390-two-lights-on",
+      "pass": true,
+      "detail": {
+        "a": 1,
+        "b": 1,
+        "base": 0,
+        "absent": 0
+      }
+    },
+    {
+      "name": "work-390-status",
+      "pass": true
+    },
+    {
+      "name": "work-390-no-overflow",
+      "pass": true
+    },
+    {
+      "name": "work-390-unique-ids",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "work-390-compare-now",
+      "pass": true,
+      "detail": {
+        "on": [
+          "light base on"
+        ],
+        "pressed": "true",
+        "focus": "now"
+      }
+    },
+    {
+      "name": "bedroom-390-hotspot-in-scene",
+      "pass": true,
+      "detail": {
+        "spot": {
+          "x": 149.296875,
+          "y": 280.203125,
+          "width": 134.34375,
+          "height": 87
+        },
+        "sc": {
+          "x": 16,
+          "y": 212.515625,
+          "width": 358,
+          "height": 226.9375
+        }
+      }
+    },
+    {
+      "name": "bedroom-390-problem-found",
+      "pass": true
+    },
+    {
+      "name": "bedroom-390-dblclick-once",
+      "pass": true
+    },
+    {
+      "name": "bedroom-390-two-lights-on",
+      "pass": true,
+      "detail": {
+        "a": 1,
+        "b": 1,
+        "base": 0,
+        "absent": 0
+      }
+    },
+    {
+      "name": "bedroom-390-status",
+      "pass": true
+    },
+    {
+      "name": "bedroom-390-no-overflow",
+      "pass": true
+    },
+    {
+      "name": "bedroom-390-unique-ids",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "bedroom-390-compare-now",
+      "pass": true,
+      "detail": {
+        "on": [
+          "light base on"
+        ],
+        "pressed": "true",
+        "focus": "now"
+      }
+    },
+    {
+      "name": "journey-final",
+      "pass": true,
+      "detail": {
+        "h1": "Ваш дом готов к долгим вечерам",
+        "code": "ВЕЧЕР15-PTOH",
+        "gift": true,
+        "rows": 5
+      }
+    },
+    {
+      "name": "checkout-pickup-no-contact-fields",
+      "pass": true,
+      "detail": {
+        "grand": "47 260 ₽",
+        "focus": "pickup",
+        "inputs": 0
+      }
+    },
+    {
+      "name": "checkout-state-saved",
+      "pass": true
+    },
+    {
+      "name": "done-honest",
+      "pass": true
+    },
+    {
+      "name": "fit-768x1024-#/",
+      "pass": true
+    },
+    {
+      "name": "fit-768x1024-#/dom",
+      "pass": true
+    },
+    {
+      "name": "fit-768x1024-#/komnata/living",
+      "pass": true
+    },
+    {
+      "name": "fit-768x1024-#/komplekt",
+      "pass": true
+    },
+    {
+      "name": "fit-768x1024-#/oformlenie",
+      "pass": true
+    },
+    {
+      "name": "fit-768x1024-#/gotovo",
+      "pass": true
+    },
+    {
+      "name": "fit-1024x768-#/",
+      "pass": true
+    },
+    {
+      "name": "fit-1024x768-#/dom",
+      "pass": true
+    },
+    {
+      "name": "fit-1024x768-#/komnata/living",
+      "pass": true
+    },
+    {
+      "name": "fit-1024x768-#/komplekt",
+      "pass": true
+    },
+    {
+      "name": "fit-1024x768-#/oformlenie",
+      "pass": true
+    },
+    {
+      "name": "fit-1024x768-#/gotovo",
+      "pass": true
+    },
+    {
+      "name": "fit-1280x800-#/",
+      "pass": true
+    },
+    {
+      "name": "fit-1280x800-#/dom",
+      "pass": true
+    },
+    {
+      "name": "fit-1280x800-#/komnata/living",
+      "pass": true
+    },
+    {
+      "name": "fit-1280x800-#/komplekt",
+      "pass": true
+    },
+    {
+      "name": "fit-1280x800-#/oformlenie",
+      "pass": true
+    },
+    {
+      "name": "fit-1280x800-#/gotovo",
+      "pass": true
+    },
+    {
+      "name": "fit-720x450-#/",
+      "pass": true
+    },
+    {
+      "name": "fit-720x450-#/dom",
+      "pass": true
+    },
+    {
+      "name": "fit-720x450-#/komnata/living",
+      "pass": true
+    },
+    {
+      "name": "fit-720x450-#/komplekt",
+      "pass": true
+    },
+    {
+      "name": "fit-720x450-#/oformlenie",
+      "pass": true
+    },
+    {
+      "name": "fit-720x450-#/gotovo",
+      "pass": true
+    },
+    {
+      "name": "fit-640x400-#/",
+      "pass": true
+    },
+    {
+      "name": "fit-640x400-#/dom",
+      "pass": true
+    },
+    {
+      "name": "fit-640x400-#/komnata/living",
+      "pass": true
+    },
+    {
+      "name": "fit-640x400-#/komplekt",
+      "pass": true
+    },
+    {
+      "name": "fit-640x400-#/oformlenie",
+      "pass": true
+    },
+    {
+      "name": "fit-640x400-#/gotovo",
+      "pass": true
+    },
+    {
+      "name": "two-tabs-sync",
+      "pass": true
+    },
+    {
+      "name": "nojs-offer-and-collection",
+      "pass": true,
+      "detail": {
+        "h1": "Темнеет в 16:30. Зажгите дом.",
+        "items": 8,
+        "note": true
+      }
+    },
+    {
+      "name": "module-failure-shows-static-offer",
+      "pass": true
+    },
+    {
+      "name": "reduced-motion-no-transition",
+      "pass": true
+    },
+    {
+      "name": "export-svg-standalone",
+      "pass": true
+    },
+    {
+      "name": "export-png-fallback-download",
+      "pass": true
+    },
+    {
+      "name": "clipboard-denied-manual-select",
+      "pass": true
+    },
+    {
+      "name": "blob-denied-svg-fallback",
+      "pass": true
+    },
+    {
+      "name": "blob-denied-png-fallback",
+      "pass": true
+    },
+    {
+      "name": "share-api-png",
+      "pass": true
+    },
+    {
+      "name": "share-api-cancel",
+      "pass": true
+    },
+    {
+      "name": "dialog-focus-cancel",
+      "pass": true
+    },
+    {
+      "name": "dialog-focus-trap",
+      "pass": true
+    },
+    {
+      "name": "dialog-escape-returns-focus",
+      "pass": true
+    },
+    {
+      "name": "reset-only-d6",
+      "pass": true
+    },
+    {
+      "name": "keyboard-hotspot",
+      "pass": true
+    },
+    {
+      "name": "keyboard-add-keeps-focus",
+      "pass": true
+    },
+    {
+      "name": "legacy-offer-visible",
+      "pass": true
+    },
+    {
+      "name": "legacy-applied",
+      "pass": true
+    },
+    {
+      "name": "R1-remove-denied-other-tab-empty",
+      "pass": true
+    },
+    {
+      "name": "R1-remove-denied-no-resurrect",
+      "pass": true
+    },
+    {
+      "name": "R1-reset-failure-visible",
+      "pass": true,
+      "detail": "Сброшен только этот экран: браузер не дал удалить сохранённый комплект, после перезагрузки он может вернуться."
+    },
+    {
+      "name": "R1-after-reload-old-set-honestly-returns",
+      "pass": true
+    },
+    {
+      "name": "R2-focus-kept-on-add",
+      "pass": true
+    },
+    {
+      "name": "R2-warning-every-screen",
+      "pass": true,
+      "detail": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "name": "R2-live-announced",
+      "pass": true
+    },
+    {
+      "name": "R2-no-warning-while-ok",
+      "pass": true
+    },
+    {
+      "name": "R2-write-failure-visible",
+      "pass": true
+    },
+    {
+      "name": "R2-write-failure-next-screen",
+      "pass": true
+    },
+    {
+      "name": "R2-home-warning-cta-visible-390",
+      "pass": true,
+      "detail": {
+        "x": 16,
+        "y": 623.5625,
+        "width": 358,
+        "height": 68
+      }
+    },
+    {
+      "name": "R2-home-warning-cta-visible-1440",
+      "pass": true,
+      "detail": {
+        "x": 57.59375,
+        "y": 635.53125,
+        "width": 362.90625,
+        "height": 52
+      }
+    },
+    {
+      "name": "R2-migration-on-inner-route",
+      "pass": true
+    },
+    {
+      "name": "R2-migration-apply-inner",
+      "pass": true
+    },
+    {
+      "name": "R3-png-button-focused",
+      "pass": true
+    },
+    {
+      "name": "R3-png-downloaded-once-share-called-once",
+      "pass": true
+    },
+    {
+      "name": "R3-stale-png-not-offered",
+      "pass": true
+    },
+    {
+      "name": "R3-cancel-no-png-button",
+      "pass": true
+    },
+    {
+      "name": "R4-first-row-on-light",
+      "pass": true,
+      "detail": {
+        "darkEnd": 1030,
+        "rowTop": 1072
+      }
+    },
+    {
+      "name": "R5-restart-on-home-360",
+      "pass": true,
+      "detail": {
+        "x": 16,
+        "y": 544.828125,
+        "width": 264.265625,
+        "height": 52
+      }
+    },
+    {
+      "name": "R5-restart-on-home-390",
+      "pass": true,
+      "detail": {
+        "x": 16,
+        "y": 525.9375,
+        "width": 264.265625,
+        "height": 52
+      }
+    },
+    {
+      "name": "R5-restart-on-home-1024",
+      "pass": true,
+      "detail": {
+        "x": 40.953125,
+        "y": 565.046875,
+        "width": 264.265625,
+        "height": 52
+      }
+    },
+    {
+      "name": "R5-restart-on-home-1280",
+      "pass": true,
+      "detail": {
+        "x": 51.1875,
+        "y": 535.453125,
+        "width": 264.265625,
+        "height": 52
+      }
+    },
+    {
+      "name": "R5-restart-on-home-1440",
+      "pass": true,
+      "detail": {
+        "x": 57.59375,
+        "y": 578.125,
+        "width": 264.265625,
+        "height": 52
+      }
+    },
+    {
+      "name": "R5-dialog-focus",
+      "pass": true
+    },
+    {
+      "name": "R5-escape-returns-focus",
+      "pass": true
+    },
+    {
+      "name": "R5-reset-from-home",
+      "pass": true
+    },
+    {
+      "name": "C1-return-terms",
+      "pass": true
+    },
+    {
+      "name": "contrast-aa",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "m-start-390-fit",
+      "pass": true
+    },
+    {
+      "name": "m-dom-390-fit",
+      "pass": true
+    },
+    {
+      "name": "m-final-390-fit",
+      "pass": true
+    },
+    {
+      "name": "m-checkout-390-fit",
+      "pass": true
+    }
+  ]
+}

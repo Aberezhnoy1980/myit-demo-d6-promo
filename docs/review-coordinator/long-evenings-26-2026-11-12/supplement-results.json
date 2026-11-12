@@ -1,0 +1,91 @@
+{
+  "date": "2026-11-12T15:03:31.867Z",
+  "passed": 18,
+  "total": 19,
+  "checks": [
+    {
+      "name": "browser-migration-v1",
+      "pass": true
+    },
+    {
+      "name": "browser-migration-v2",
+      "pass": true
+    },
+    {
+      "name": "browser-migration-v3",
+      "pass": true
+    },
+    {
+      "name": "legacy-apply-v3",
+      "pass": true
+    },
+    {
+      "name": "browser-migration-v4",
+      "pass": true
+    },
+    {
+      "name": "legacy-apply-v4",
+      "pass": true
+    },
+    {
+      "name": "public-prefix-path-and-saved-choice",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "export-first-row-on-light-background",
+      "pass": false,
+      "detail": {
+        "text": "Прихожая · Подсветка под шкафы и полки «Линия»",
+        "textTop": 1022,
+        "textBottom": 1052,
+        "darkBottom": 1030,
+        "fill": "#2a312d"
+      }
+    },
+    {
+      "name": "scene-text-hall-point",
+      "pass": true
+    },
+    {
+      "name": "scene-text-hall-line",
+      "pass": true
+    },
+    {
+      "name": "scene-text-kitchen-line",
+      "pass": true
+    },
+    {
+      "name": "scene-text-kitchen-arc",
+      "pass": true
+    },
+    {
+      "name": "scene-text-living-dawn",
+      "pass": true
+    },
+    {
+      "name": "scene-text-living-pause",
+      "pass": true
+    },
+    {
+      "name": "scene-text-living-halo",
+      "pass": true
+    },
+    {
+      "name": "scene-text-work-focus",
+      "pass": true
+    },
+    {
+      "name": "scene-text-work-line",
+      "pass": true
+    },
+    {
+      "name": "scene-text-bedroom-fold",
+      "pass": true
+    },
+    {
+      "name": "scene-text-bedroom-point",
+      "pass": true
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "version": 5,
+  "rooms": {
+    "hall": {
+      "found": true,
+      "items": [
+        "point"
+      ]
+    },
+    "kitchen": {
+      "found": true,
+      "items": [
+        "line"
+      ]
+    },
+    "living": {
+      "found": true,
+      "items": [
+        "pause"
+      ]
+    },
+    "work": {
+      "found": true,
+      "items": [
+        "focus"
+      ]
+    },
+    "bedroom": {
+      "found": true,
+      "items": [
+        "fold"
+      ]
+    }
+  },
+  "checkout": {
+    "delivery": "pickup",
+    "mount": "no",
+    "slot": "weekday"
+  },
+  "legacy": null,
+  "legacyOpen": false
+}

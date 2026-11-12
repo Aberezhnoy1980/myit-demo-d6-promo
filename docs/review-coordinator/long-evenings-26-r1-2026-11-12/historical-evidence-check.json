@@ -1,0 +1,27 @@
+[
+  {
+    "file": "evidence/stage-b-26/check-results.json",
+    "independent_repeat_exists": true,
+    "same_as_original": false
+  },
+  {
+    "file": "evidence/stage-b-26/d-start-1440.png",
+    "independent_repeat_exists": true,
+    "same_as_original": true
+  },
+  {
+    "file": "evidence/stage-b-26/m-start-390.png",
+    "independent_repeat_exists": true,
+    "same_as_original": true
+  },
+  {
+    "file": "evidence/stage-b-26/otkrytka-full.png",
+    "independent_repeat_exists": true,
+    "same_as_original": true
+  },
+  {
+    "file": "evidence/stage-b-26/podborka-full.svg",
+    "independent_repeat_exists": true,
+    "same_as_original": true
+  }
+]

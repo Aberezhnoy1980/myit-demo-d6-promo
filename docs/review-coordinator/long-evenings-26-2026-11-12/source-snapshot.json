@@ -1,0 +1,19 @@
+{
+  "source": "/Users/alex/myit/demo/Landing/d6-promo",
+  "isolated": "/var/folders/3b/djf2lgj121d5rrykdmkl5sh40000gq/T/d6-review26-sxnd4_xw",
+  "manifest_sha256": "7cd894509373286306948a08af2833450388dac75f130ec3f1c49c4b61333c13",
+  "manifest_entries": 195,
+  "public_root_equal": {
+    "house.js": true,
+    "index.html": true,
+    "rooms.js": true,
+    "legacy.js": true,
+    "state.js": true,
+    "data.js": true,
+    "style.css": true,
+    "card.js": true,
+    "art.js": true,
+    "app.js": true,
+    "storage.js": true
+  }
+}

@@ -1,0 +1,1405 @@
+{
+  "date": "2026-11-12T15:00:38.962Z",
+  "checks": [
+    {
+      "name": "fresh-cta-390",
+      "pass": true,
+      "detail": {
+        "x": 16,
+        "y": 455.5625,
+        "width": 358,
+        "height": 68
+      }
+    },
+    {
+      "name": "route-focus-390-bedroom",
+      "pass": true
+    },
+    {
+      "name": "problem-focus-390-bedroom",
+      "pass": true
+    },
+    {
+      "name": "selection-390-bedroom",
+      "pass": true
+    },
+    {
+      "name": "threshold-390-1",
+      "pass": true,
+      "detail": {
+        "n": 1,
+        "subtotal": 5900,
+        "vals": [
+          "5 900 ₽",
+          "",
+          "—",
+          "",
+          "5 900 ₽",
+          ""
+        ]
+      }
+    },
+    {
+      "name": "route-focus-390-work",
+      "pass": true
+    },
+    {
+      "name": "problem-focus-390-work",
+      "pass": true
+    },
+    {
+      "name": "selection-390-work",
+      "pass": true
+    },
+    {
+      "name": "threshold-390-2",
+      "pass": true,
+      "detail": {
+        "n": 2,
+        "subtotal": 12200,
+        "vals": [
+          "12 200 ₽",
+          "",
+          "−610 ₽",
+          "",
+          "11 590 ₽",
+          ""
+        ]
+      }
+    },
+    {
+      "name": "partial-reentry-390",
+      "pass": true
+    },
+    {
+      "name": "restart-on-home-390",
+      "pass": false
+    },
+    {
+      "name": "route-focus-390-living",
+      "pass": true
+    },
+    {
+      "name": "problem-focus-390-living",
+      "pass": true
+    },
+    {
+      "name": "selection-390-living",
+      "pass": true
+    },
+    {
+      "name": "threshold-390-3",
+      "pass": true,
+      "detail": {
+        "n": 3,
+        "subtotal": 20000,
+        "vals": [
+          "20 000 ₽",
+          "",
+          "−2 000 ₽",
+          "",
+          "18 000 ₽",
+          ""
+        ]
+      }
+    },
+    {
+      "name": "route-focus-390-kitchen",
+      "pass": true
+    },
+    {
+      "name": "problem-focus-390-kitchen",
+      "pass": true
+    },
+    {
+      "name": "selection-390-kitchen",
+      "pass": true
+    },
+    {
+      "name": "threshold-390-4",
+      "pass": true,
+      "detail": {
+        "n": 4,
+        "subtotal": 36400,
+        "vals": [
+          "36 400 ₽",
+          "",
+          "−3 640 ₽",
+          "",
+          "32 760 ₽",
+          ""
+        ]
+      }
+    },
+    {
+      "name": "route-focus-390-hall",
+      "pass": true
+    },
+    {
+      "name": "problem-focus-390-hall",
+      "pass": true
+    },
+    {
+      "name": "selection-390-hall",
+      "pass": true
+    },
+    {
+      "name": "threshold-390-5",
+      "pass": true,
+      "detail": {
+        "n": 5,
+        "subtotal": 42700,
+        "vals": [
+          "42 700 ₽",
+          "",
+          "−6 405 ₽",
+          "",
+          "в подарок",
+          "",
+          "36 295 ₽",
+          ""
+        ]
+      }
+    },
+    {
+      "name": "svg-390",
+      "pass": true
+    },
+    {
+      "name": "checkout-arithmetic-390",
+      "pass": true
+    },
+    {
+      "name": "no-contact-fields-390",
+      "pass": true
+    },
+    {
+      "name": "honest-completion-390",
+      "pass": true
+    },
+    {
+      "name": "completed-reentry-390",
+      "pass": true
+    },
+    {
+      "name": "remove-threshold-390-4",
+      "pass": true,
+      "detail": {
+        "n": 4,
+        "subtotal": 36400,
+        "vals": [
+          "36 400 ₽",
+          "",
+          "−3 640 ₽",
+          "",
+          "32 760 ₽",
+          ""
+        ]
+      }
+    },
+    {
+      "name": "remove-threshold-390-3",
+      "pass": true,
+      "detail": {
+        "n": 3,
+        "subtotal": 20000,
+        "vals": [
+          "20 000 ₽",
+          "",
+          "−2 000 ₽",
+          "",
+          "18 000 ₽",
+          ""
+        ]
+      }
+    },
+    {
+      "name": "remove-threshold-390-2",
+      "pass": true,
+      "detail": {
+        "n": 2,
+        "subtotal": 12200,
+        "vals": [
+          "12 200 ₽",
+          "",
+          "−610 ₽",
+          "",
+          "11 590 ₽",
+          ""
+        ]
+      }
+    },
+    {
+      "name": "remove-threshold-390-1",
+      "pass": true,
+      "detail": {
+        "n": 1,
+        "subtotal": 5900,
+        "vals": [
+          "5 900 ₽",
+          "",
+          "—",
+          "",
+          "5 900 ₽",
+          ""
+        ]
+      }
+    },
+    {
+      "name": "empty-again-390",
+      "pass": true
+    },
+    {
+      "name": "offline-svg-390",
+      "pass": true
+    },
+    {
+      "name": "fresh-cta-1440",
+      "pass": true,
+      "detail": {
+        "x": 57.59375,
+        "y": 539.53125,
+        "width": 362.90625,
+        "height": 52
+      }
+    },
+    {
+      "name": "route-focus-1440-kitchen",
+      "pass": true
+    },
+    {
+      "name": "problem-focus-1440-kitchen",
+      "pass": true
+    },
+    {
+      "name": "selection-1440-kitchen",
+      "pass": true
+    },
+    {
+      "name": "threshold-1440-1",
+      "pass": true,
+      "detail": {
+        "n": 1,
+        "subtotal": 6300,
+        "vals": [
+          "6 300 ₽",
+          "",
+          "—",
+          "",
+          "6 300 ₽",
+          ""
+        ]
+      }
+    },
+    {
+      "name": "route-focus-1440-hall",
+      "pass": true
+    },
+    {
+      "name": "problem-focus-1440-hall",
+      "pass": true
+    },
+    {
+      "name": "selection-1440-hall",
+      "pass": true
+    },
+    {
+      "name": "threshold-1440-2",
+      "pass": true,
+      "detail": {
+        "n": 2,
+        "subtotal": 12200,
+        "vals": [
+          "12 200 ₽",
+          "",
+          "−610 ₽",
+          "",
+          "11 590 ₽",
+          ""
+        ]
+      }
+    },
+    {
+      "name": "partial-reentry-1440",
+      "pass": true
+    },
+    {
+      "name": "restart-on-home-1440",
+      "pass": false
+    },
+    {
+      "name": "route-focus-1440-bedroom",
+      "pass": true
+    },
+    {
+      "name": "problem-focus-1440-bedroom",
+      "pass": true
+    },
+    {
+      "name": "selection-1440-bedroom",
+      "pass": true
+    },
+    {
+      "name": "threshold-1440-3",
+      "pass": true,
+      "detail": {
+        "n": 3,
+        "subtotal": 21800,
+        "vals": [
+          "21 800 ₽",
+          "",
+          "−2 180 ₽",
+          "",
+          "19 620 ₽",
+          ""
+        ]
+      }
+    },
+    {
+      "name": "route-focus-1440-living",
+      "pass": true
+    },
+    {
+      "name": "problem-focus-1440-living",
+      "pass": true
+    },
+    {
+      "name": "selection-1440-living",
+      "pass": true
+    },
+    {
+      "name": "threshold-1440-4",
+      "pass": true,
+      "detail": {
+        "n": 4,
+        "subtotal": 41500,
+        "vals": [
+          "41 500 ₽",
+          "",
+          "−4 150 ₽",
+          "",
+          "37 350 ₽",
+          ""
+        ]
+      }
+    },
+    {
+      "name": "route-focus-1440-work",
+      "pass": true
+    },
+    {
+      "name": "problem-focus-1440-work",
+      "pass": true
+    },
+    {
+      "name": "selection-1440-work",
+      "pass": true
+    },
+    {
+      "name": "threshold-1440-5",
+      "pass": true,
+      "detail": {
+        "n": 5,
+        "subtotal": 50400,
+        "vals": [
+          "50 400 ₽",
+          "",
+          "−7 560 ₽",
+          "",
+          "в подарок",
+          "",
+          "42 840 ₽",
+          ""
+        ]
+      }
+    },
+    {
+      "name": "svg-1440",
+      "pass": true
+    },
+    {
+      "name": "checkout-arithmetic-1440",
+      "pass": true
+    },
+    {
+      "name": "no-contact-fields-1440",
+      "pass": true
+    },
+    {
+      "name": "honest-completion-1440",
+      "pass": true
+    },
+    {
+      "name": "completed-reentry-1440",
+      "pass": true
+    },
+    {
+      "name": "remove-threshold-1440-4",
+      "pass": true,
+      "detail": {
+        "n": 4,
+        "subtotal": 41500,
+        "vals": [
+          "41 500 ₽",
+          "",
+          "−4 150 ₽",
+          "",
+          "37 350 ₽",
+          ""
+        ]
+      }
+    },
+    {
+      "name": "remove-threshold-1440-3",
+      "pass": true,
+      "detail": {
+        "n": 3,
+        "subtotal": 21800,
+        "vals": [
+          "21 800 ₽",
+          "",
+          "−2 180 ₽",
+          "",
+          "19 620 ₽",
+          ""
+        ]
+      }
+    },
+    {
+      "name": "remove-threshold-1440-2",
+      "pass": true,
+      "detail": {
+        "n": 2,
+        "subtotal": 12200,
+        "vals": [
+          "12 200 ₽",
+          "",
+          "−610 ₽",
+          "",
+          "11 590 ₽",
+          ""
+        ]
+      }
+    },
+    {
+      "name": "remove-threshold-1440-1",
+      "pass": true,
+      "detail": {
+        "n": 1,
+        "subtotal": 6300,
+        "vals": [
+          "6 300 ₽",
+          "",
+          "—",
+          "",
+          "6 300 ₽",
+          ""
+        ]
+      }
+    },
+    {
+      "name": "empty-again-1440",
+      "pass": true
+    },
+    {
+      "name": "offline-svg-1440",
+      "pass": true
+    },
+    {
+      "name": "cap-two",
+      "pass": true
+    },
+    {
+      "name": "replace-product",
+      "pass": true
+    },
+    {
+      "name": "storage-failure-visible-in-room",
+      "pass": false
+    },
+    {
+      "name": "storage-denied-memory-flow",
+      "pass": true
+    },
+    {
+      "name": "storage-warning-on-home",
+      "pass": true
+    },
+    {
+      "name": "reset-failure-visible",
+      "pass": false
+    },
+    {
+      "name": "reset-does-not-resurrect",
+      "pass": false,
+      "detail": {
+        "version": 5,
+        "rooms": {
+          "hall": {
+            "found": true,
+            "items": [
+              "point"
+            ]
+          },
+          "kitchen": {
+            "found": false,
+            "items": []
+          },
+          "living": {
+            "found": false,
+            "items": []
+          },
+          "work": {
+            "found": false,
+            "items": []
+          },
+          "bedroom": {
+            "found": false,
+            "items": []
+          }
+        },
+        "checkout": {
+          "delivery": "courier",
+          "mount": "yes",
+          "slot": "weekday"
+        },
+        "legacy": null,
+        "legacyOpen": false
+      }
+    },
+    {
+      "name": "share-denied-has-png-fallback",
+      "pass": false,
+      "detail": {
+        "downloads": 0,
+        "status": "Поделиться не получилось — сохраните открытку кнопкой ещё раз."
+      }
+    },
+    {
+      "name": "cta-window-360",
+      "pass": true,
+      "detail": {
+        "x": 16,
+        "y": 474.453125,
+        "width": 328,
+        "height": 68
+      }
+    },
+    {
+      "name": "overflow-360",
+      "pass": true
+    },
+    {
+      "name": "cta-window-768",
+      "pass": true,
+      "detail": {
+        "x": 30.71875,
+        "y": 424.25,
+        "width": 362.90625,
+        "height": 52
+      }
+    },
+    {
+      "name": "overflow-768",
+      "pass": true
+    },
+    {
+      "name": "cta-window-1024",
+      "pass": true,
+      "detail": {
+        "x": 40.953125,
+        "y": 494.671875,
+        "width": 362.90625,
+        "height": 52
+      }
+    },
+    {
+      "name": "overflow-1024",
+      "pass": true
+    },
+    {
+      "name": "cta-window-1280",
+      "pass": true,
+      "detail": {
+        "x": 51.1875,
+        "y": 492.09375,
+        "width": 362.90625,
+        "height": 52
+      }
+    },
+    {
+      "name": "overflow-1280",
+      "pass": true
+    },
+    {
+      "name": "back-forward",
+      "pass": true
+    },
+    {
+      "name": "corrupt-state-warning",
+      "pass": true
+    },
+    {
+      "name": "requests-get-local-only",
+      "pass": true
+    },
+    {
+      "name": "no-page-errors",
+      "pass": true,
+      "detail": []
+    }
+  ],
+  "passed": 82,
+  "total": 88,
+  "errors": [],
+  "requests": [
+    {
+      "url": "http://127.0.0.1:4397/",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/style.css",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/app.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/data.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/state.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/storage.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/house.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/rooms.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/art.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/card.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/legacy.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/style.css",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/app.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/data.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/state.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/storage.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/house.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/rooms.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/art.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/card.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/legacy.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/style.css",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/app.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/data.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/state.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/storage.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/house.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/rooms.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/art.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/card.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/legacy.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/style.css",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/app.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/data.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/state.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/storage.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/house.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/rooms.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/art.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/card.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/legacy.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/style.css",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/app.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/data.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/state.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/storage.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/house.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/rooms.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/art.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/card.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/legacy.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/style.css",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/app.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/data.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/state.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/storage.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/house.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/rooms.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/art.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/card.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/legacy.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/style.css",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/app.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/data.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/state.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/storage.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/house.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/rooms.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/art.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/card.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/legacy.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/style.css",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/app.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/data.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/state.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/storage.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/house.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/rooms.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/art.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/card.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/legacy.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/style.css",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/app.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/data.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/state.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/storage.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/house.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/rooms.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/art.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/card.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/legacy.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/style.css",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/app.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/data.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/state.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/storage.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/house.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/rooms.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/art.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/card.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/legacy.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/style.css",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/app.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/data.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/state.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/storage.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/house.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/rooms.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/art.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/card.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/legacy.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/style.css",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/app.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/data.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/state.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/storage.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/house.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/rooms.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/art.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/card.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/legacy.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/style.css",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/app.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/data.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/state.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/storage.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/house.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/rooms.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/art.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/card.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/legacy.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/style.css",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/app.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/data.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/state.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/storage.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/house.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/rooms.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/art.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/card.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/legacy.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/style.css",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/app.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/data.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/state.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/storage.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/house.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/rooms.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/art.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/card.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/legacy.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/style.css",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/app.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/data.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/state.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/storage.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/house.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/rooms.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/art.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/card.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/legacy.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/style.css",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/app.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/data.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/state.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/storage.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/house.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/rooms.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/art.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/card.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:4397/legacy.js",
+      "method": "GET"
+    }
+  ]
+}

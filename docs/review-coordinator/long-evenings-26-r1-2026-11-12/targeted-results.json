@@ -1,0 +1,200 @@
+{
+  "passed": 34,
+  "total": 34,
+  "checks": [
+    {
+      "name": "R1-remove-only-empty-saved",
+      "pass": true
+    },
+    {
+      "name": "R1-other-tab-empty",
+      "pass": true
+    },
+    {
+      "name": "R1-no-resurrection",
+      "pass": true
+    },
+    {
+      "name": "R1-other-key-kept",
+      "pass": true
+    },
+    {
+      "name": "R1-both-refused-honest",
+      "pass": true
+    },
+    {
+      "name": "R1-memory-still-works",
+      "pass": true
+    },
+    {
+      "name": "R1-return-was-disclosed",
+      "pass": true
+    },
+    {
+      "name": "R2-write-fail-visible-and-focus",
+      "pass": true
+    },
+    {
+      "name": "R2-warning-#/dom",
+      "pass": true
+    },
+    {
+      "name": "R2-warning-#/komplekt",
+      "pass": true
+    },
+    {
+      "name": "R2-warning-#/oformlenie",
+      "pass": true
+    },
+    {
+      "name": "R2-warning-#/gotovo",
+      "pass": true
+    },
+    {
+      "name": "R2-warning-#/",
+      "pass": true
+    },
+    {
+      "name": "R2-live-single-mutation",
+      "pass": true,
+      "detail": 1
+    },
+    {
+      "name": "R2-read-denied-inner-route",
+      "pass": true
+    },
+    {
+      "name": "R2-read-denied-in-memory",
+      "pass": true
+    },
+    {
+      "name": "R3-fallback-focus",
+      "pass": true
+    },
+    {
+      "name": "R3-real-png",
+      "pass": true,
+      "detail": {
+        "bytes": 483157,
+        "width": 1200,
+        "height": 1886
+      }
+    },
+    {
+      "name": "R3-share-called-once",
+      "pass": true
+    },
+    {
+      "name": "R3-stale-after-other-tab",
+      "pass": true
+    },
+    {
+      "name": "R3-cancel-no-download",
+      "pass": true
+    },
+    {
+      "name": "R4-light-background-one",
+      "pass": true,
+      "detail": {
+        "top": 1071.384521484375,
+        "darkBottom": 1030,
+        "lastBottom": 1196.1538753509521,
+        "height": 1490
+      }
+    },
+    {
+      "name": "R4-light-background-max",
+      "pass": true,
+      "detail": {
+        "top": 1071.384521484375,
+        "darkBottom": 1030,
+        "lastBottom": 1592.1537532806396,
+        "height": 1886
+      }
+    },
+    {
+      "name": "R5-found-only-cta-360",
+      "pass": true,
+      "detail": {
+        "x": 16,
+        "y": 544.828125,
+        "width": 264.265625,
+        "height": 52
+      }
+    },
+    {
+      "name": "R5-found-only-cta-390",
+      "pass": true,
+      "detail": {
+        "x": 16,
+        "y": 525.9375,
+        "width": 264.265625,
+        "height": 52
+      }
+    },
+    {
+      "name": "R5-cancel-focus",
+      "pass": true
+    },
+    {
+      "name": "R5-found-reset",
+      "pass": true
+    },
+    {
+      "name": "R5-found-only-cta-768",
+      "pass": true,
+      "detail": {
+        "x": 30.71875,
+        "y": 471.4375,
+        "width": 264.265625,
+        "height": 52
+      }
+    },
+    {
+      "name": "R5-found-only-cta-1024",
+      "pass": true,
+      "detail": {
+        "x": 40.953125,
+        "y": 565.046875,
+        "width": 264.265625,
+        "height": 52
+      }
+    },
+    {
+      "name": "R5-found-only-cta-1280",
+      "pass": true,
+      "detail": {
+        "x": 51.1875,
+        "y": 535.453125,
+        "width": 264.265625,
+        "height": 52
+      }
+    },
+    {
+      "name": "R5-found-only-cta-1440",
+      "pass": true,
+      "detail": {
+        "x": 57.59375,
+        "y": 578.125,
+        "width": 264.265625,
+        "height": 52
+      }
+    },
+    {
+      "name": "public-prefix-flow",
+      "pass": true
+    },
+    {
+      "name": "no-page-errors",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "no-external",
+      "pass": true,
+      "detail": []
+    }
+  ],
+  "errors": [],
+  "external": []
+}

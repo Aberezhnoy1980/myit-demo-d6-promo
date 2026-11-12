@@ -1,0 +1,101 @@
+{
+  "manifest_sha256": "b50672a079d7233ff106001ae39aed5cdb20e9c2b6184b0d1915abebeb70f70e",
+  "manifest_entries": 204,
+  "isolated": "/var/folders/3b/djf2lgj121d5rrykdmkl5sh40000gq/T/d6-review26-r1-amwx40un",
+  "public_root_equal": {
+    "house.js": true,
+    "index.html": true,
+    "rooms.js": true,
+    "legacy.js": true,
+    "state.js": true,
+    "data.js": true,
+    "style.css": true,
+    "card.js": true,
+    "art.js": true,
+    "app.js": true,
+    "storage.js": true
+  },
+  "previous_manifest_sha256": "7cd894509373286306948a08af2833450388dac75f130ec3f1c49c4b61333c13",
+  "previous_manifest_mismatches": [
+    {
+      "file": "./app.js",
+      "state": "changed"
+    },
+    {
+      "file": "./card.js",
+      "state": "changed"
+    },
+    {
+      "file": "./docs/acceptance.md",
+      "state": "changed"
+    },
+    {
+      "file": "./docs/assets.md",
+      "state": "changed"
+    },
+    {
+      "file": "./docs/changes-26.md",
+      "state": "changed"
+    },
+    {
+      "file": "./docs/report.md",
+      "state": "changed"
+    },
+    {
+      "file": "./evidence/stage-b-26/check-results.json",
+      "state": "changed"
+    },
+    {
+      "file": "./evidence/stage-b-26/d-start-1440.png",
+      "state": "changed"
+    },
+    {
+      "file": "./evidence/stage-b-26/m-start-390.png",
+      "state": "changed"
+    },
+    {
+      "file": "./evidence/stage-b-26/otkrytka-full.png",
+      "state": "changed"
+    },
+    {
+      "file": "./evidence/stage-b-26/podborka-full.svg",
+      "state": "changed"
+    },
+    {
+      "file": "./index.html",
+      "state": "changed"
+    },
+    {
+      "file": "./public/SHA256SUMS",
+      "state": "changed"
+    },
+    {
+      "file": "./public/app.js",
+      "state": "changed"
+    },
+    {
+      "file": "./public/card.js",
+      "state": "changed"
+    },
+    {
+      "file": "./public/index.html",
+      "state": "changed"
+    },
+    {
+      "file": "./public/style.css",
+      "state": "changed"
+    },
+    {
+      "file": "./style.css",
+      "state": "changed"
+    },
+    {
+      "file": "./tests/browser-26.mjs",
+      "state": "changed"
+    },
+    {
+      "file": "./tests/state.test.mjs",
+      "state": "changed"
+    }
+  ]
+}
